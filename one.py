@@ -15,4 +15,4 @@ def daynumtoname(num):
         return "Saturday"
     else:
         return "Please enter an integer between 0 and 6."
-print(daynumtoname(int(input("Please enter an integer between 0 and 6."))))    
+print( daynumtoname ( int( input("Please enter an integer between 0 and 6.")))   
